@@ -1,0 +1,7 @@
+## Interface: 30100
+## Title: Combat Simulator
+## Notes: Developer tool to simulate combat log events
+## Author: Mayen/Selari
+
+log.lua
+CombatSimulator.lua
